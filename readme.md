@@ -44,8 +44,6 @@ Desenvolvido para funcionar corretamente em:
   <img src="./Screenshots/services.png" width="45%">
 </p>
 
-<img src="https://github.com/GaryGarcia2703/site-academia/blob/main/Screenshots/about.png" width="45%">
-
 ## Demonstração
 
 [![Ver Projeto](https://img.shields.io/badge/Visitar%20Site-2563eb?style=for-the-badge)](https://garygarcia2703.github.io/site-academia/)
