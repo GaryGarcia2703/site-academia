@@ -39,12 +39,12 @@ Desenvolvido para funcionar corretamente em:
 ## Screenshots
 
 <p align="center">
-  <img src="./screenshots/home.png" width="45%">
-  <img src="./screenshots/about.png" width="45%">
-  <img src="./screenshots/services.png" width="45%">
+  <img src="./Screenshots/home.png" width="45%">
+  <img src="./Screenshots/about.png" width="45%">
+  <img src="./Screenshots/services.png" width="45%">
 </p>
 
-<img src="https://raw.githubusercontent.com/GaryGarcia2703/site-academia/main/screenshots/home.png" width="45%">
+<img src="https://github.com/GaryGarcia2703/site-academia/blob/main/Screenshots/about.png" width="45%">
 
 ## Demonstração
 
