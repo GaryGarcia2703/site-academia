@@ -4,10 +4,6 @@ Projeto desenvolvido para uma academia local com o objetivo de apresentar seus s
 
 Este projeto foi criado como prática de desenvolvimento front-end, aplicando conceitos de design responsivo, organização de conteúdo e experiência do usuário.
 
-## Demonstração
-
-[![Ver Projeto](https://img.shields.io/badge/Visitar%20Site-2563eb?style=for-the-badge)](https://garygarcia2703.github.io/site-academia/)
-
 ## Funcionalidades
 
 * Página inicial institucional
@@ -47,6 +43,11 @@ Desenvolvido para funcionar corretamente em:
   <img src="./screenshots/about.png" width="45%">
   <img src="./screenshots/services.png" width="45%">
 </p>
+
+## Demonstração
+
+[![Ver Projeto](https://img.shields.io/badge/Visitar%20Site-2563eb?style=for-the-badge)](https://garygarcia2703.github.io/site-academia/)
+
 
 ## Aprendizados
 
